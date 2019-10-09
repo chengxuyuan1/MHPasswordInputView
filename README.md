@@ -1,0 +1,2 @@
+# MHPasswordInputView
+input password
